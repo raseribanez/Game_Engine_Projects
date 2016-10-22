@@ -19,5 +19,5 @@ I am happy to answer any questions and help in any way I can. If you use these g
 let me know.
 
 I appreciate ANY feedback and constructive criticism - and improvements!
-===========================================================================================================================
+
 Enjoy
