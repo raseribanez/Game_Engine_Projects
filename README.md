@@ -16,7 +16,8 @@ The games posted here are in GML language
 Feel free to use them as templates, or as learning aids.
 
 I am happy to answer any questions and help in any way I can. If you use these games please drop me an email or message to 
-let me know.
+let me know - just so I know it was helpful - not important though - the work I have done is all open source software and 
+resources anyway so you can easily do this stuff yourself if you wanted anyway!
 
 I appreciate ANY feedback and constructive criticism - and improvements!
 
