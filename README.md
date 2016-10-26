@@ -7,6 +7,7 @@ Most will be either clones of classic games, or my own take on popular games. As
 quality and detail within my games - also some of the games here were made by following tutorial videos on youtube, then customizing to my own preferences.
 
 Heres the links to make them yourself:
+
 Shaun Spalding
 https://www.youtube.com/user/999Greyfox
 
